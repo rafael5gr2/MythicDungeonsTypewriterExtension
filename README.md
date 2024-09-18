@@ -1,0 +1,1 @@
+To compile the extension you have to create a directory called ``libs`` and then put the MythicDungeons plugin in it. Make sure that you place the version 2 of the plugin, which is currently under development. This is a temporary solution because the MythicDungeons maven repo doesn't have the v2 api yet.
